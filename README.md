@@ -2,6 +2,10 @@
 
 Exemplo básico de utilização de `GenStage`.
 
+![alt-text](elixir_logo2.jpg)
+
+![alt-text](elixir_logo2.jpg)
+
 ## Instalação
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
