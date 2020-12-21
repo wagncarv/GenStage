@@ -2,7 +2,7 @@
 
 Exemplo básico de utilização de `GenStage`.
 
-## Installation
+## Instalação
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `gencounter` to your list of dependencies in `mix.exs`:
