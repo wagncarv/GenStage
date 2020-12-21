@@ -1,6 +1,6 @@
-# Gencounter
+# GenStage
 
-**TODO: Add description**
+Exemplo básico de utilização de `GenStage`.
 
 ## Installation
 
