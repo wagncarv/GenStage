@@ -20,3 +20,4 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/gencounter](https://hexdocs.pm/gencounter).
 
 # GenStage
+# https://hexdocs.pm/gen_stage/GenStage.html#content
